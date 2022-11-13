@@ -1,2 +1,2 @@
 # knemesis
-Kernel module for Itead Studio's Nextion basic
+Display server for Itead Studio's Nextion basic
